@@ -1,10 +1,9 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Lawrence Yen",
     "role": "Full Stack Developer and Product Manager",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "gmail":" lawrence.t.yen@gmail.com",
+    "roleDescription": " I like to create elegant user experiences, learn new technologies, and dance competitive Latin in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -15,65 +14,101 @@ let resumeData = {
           "name":"github",
           "url":"http://github.com/lawrencety",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am seeking a Full Stack Web Developer position with company I can be passionate about. I have extensive experience in Full Stack JavaScript, Product Managment, and UI/UX Design. I have over 4 years of experience working with complex systems, technology, and product.",
+    "aboutme2":"I am currently taking the Bloc Full Stack Web Development bootcamp program to further enhance my technical skills and expertise.",
+    "address":"San Francisco Bay Area",
+    "email":"lawrence.t.yen@gmail.com",
+    "phone":"917.330.6288",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Bloc",
+        "specialization":"Full Stack Web Development",
+        "MonthOfStart":"November",
+        "YearOfStart":"2018",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2019",
+        "Achievements":"Completed bootcamp curriculum with extensive and grounded technical knowledge and hands on experience with a portfolio of projects including a Chat, Forum, Wiki, Nutrition Tracker, and Shared Mobile Shopping List"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"UC Berkeley",
+        "specialization":"Civil Engineering",
+        "MonthOfStart":"August",
+        "YearOfStart":"2010",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2013",
+        "Achievements":"Graduated with a Bachelors of Science in three years culminating in a thesis paper on Lean methodology and its application in the public construction process"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Milestone Technologies",
+        "specialization":"Product Manager",
+        "MonthOfStart":"March",
+        "YearOfStart":"2017",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2019",
+        "Achievements":"Managed entire marketing and proposal process for all services and major clients for a global IT outsourcing firm"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "CompanyName":"Flyosk",
+        "specialization":"Product Manager",
+        "MonthOfStart":"April",
+        "YearOfStart":"2016",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2017",
+        "Achievements":"First employee tasked with user growth, product development, and business development at a bootstrapped startup with a mission to democratize general aviation"
+      },
+      {
+        "CompanyName":"Accenture",
+        "specialization":"Techology Consulting Analyst",
+        "MonthOfStart":"November",
+        "YearOfStart":"2014",
+        "MonthOfLeaving":"March",
+        "YearOfLeaving":"2016",
+        "Achievements":"Successful and hyperbolic career trajectory from individual contributor at a major system implementation project to a manager position for creative and technical projects"
+      },
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Wide breadth and depth of technical skills, business acumen, and design intuition",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"JavaScript",
+        "class":"javascript"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Reactjs",
+        "class":"reactjs"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Nodejs",
+        "class":"nodejs"
+      },
+      {
+        "skillname":"Product Management",
+        "class":"product-management"
+      },
+      {
+        "skillname":"UI/UX Design",
+        "class":"uiux-design"
+      }
+    ],
+    "otherSkills": [
+      {
+        "skillname": "Technical Skills",
+        "description": "Full Stack JavaScript, HTML5, CSS3, AJAX, Express, PostgreSQL, MySQL, MongoDB, GitHub"
+      },
+      {
+        "skillname": "Supplementary Skills",
+        "description": "Agile and Waterfall Product Development, Vector Graphics Design, Team Collaboration"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"nOCD",
+        "description":"An iOS app for treating OCD patients",
+        "imgurl":"images/portfolio/nocd-logo.png",
+        "url":"https://www.treatmyocd.com/"
       },
       {
         "name":"project2",
