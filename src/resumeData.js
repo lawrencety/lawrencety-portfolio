@@ -49,7 +49,16 @@ let resumeData = {
         "YearOfStart":"2017",
         "MonthOfLeaving":"March",
         "YearOfLeaving":"2019",
-        "Achievements":"Managed entire marketing and proposal process for all services and major clients for a global IT outsourcing firm"
+        "Achievements":"Managed entire marketing and proposal process for current and future services and work rendered for major clients at a global IT outsourcing firm"
+      },
+      {
+        "CompanyName":"Horizon Medical Device Consulting",
+        "specialization":"Freelance Web Developer & Designer",
+        "MonthOfStart":"November",
+        "YearOfStart":"2016",
+        "MonthOfLeaving":"February",
+        "YearOfLeaving":"2017",
+        "Achievements":"Design, development, and consulting work of branding, logo, company identity, and website for a small healthcare startup"
       },
       {
         "CompanyName":"Flyosk",
@@ -96,7 +105,7 @@ let resumeData = {
     "otherSkills": [
       {
         "skillname": "Technical Skills",
-        "description": "Full Stack JavaScript, HTML5, CSS3, AJAX, Express, PostgreSQL, MySQL, MongoDB, GitHub"
+        "description": "Full Stack JavaScript, HTML5, CSS3, React Native, AJAX, Express, PostgreSQL, MySQL, MongoDB, GitHub"
       },
       {
         "skillname": "Supplementary Skills",
@@ -106,23 +115,24 @@ let resumeData = {
     "portfolio":[
       {
         "name":"nOCD",
-        "description":"An iOS app for treating OCD patients",
+        "description":"An iOS app for treating OCD patients using Exposure Response Prevention therapy techniques",
         "imgurl":"images/portfolio/nocd-logo.png",
         "url":"https://www.treatmyocd.com/"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Horizon Medical Device Consulting",
+        "description":"Company One-page Site for a medical device consulting startup",
+        "imgurl":"images/portfolio/horizonmdc-logo.png",
+        "url":"http://horizonmdc.com.s3-website-us-west-1.amazonaws.com/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",
+        "name":"Shopping List",
+        "description":"A mobile app for a collaborative and simple shopping list",
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
+        "name":"Nutrition Plan",
+        "description":"A web application to keep track of nutritional information on all food intake",
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
