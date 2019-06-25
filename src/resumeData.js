@@ -126,14 +126,15 @@ let resumeData = {
         "url":"http://horizonmdc.com.s3-website-us-west-1.amazonaws.com/"
       },
       {
-        "name":"Shopping List",
+        "name":"Simplist",
         "description":"A mobile app for a collaborative and simple shopping list",
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/simplist-logo.png",
+        "url": "http://simplist.lawrencety.com"
       },
       {
         "name":"Nutrition Plan",
         "description":"A web application to keep track of nutritional information on all food intake",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":""
       }
     ],
     "testimonials":[
