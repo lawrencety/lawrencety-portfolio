@@ -127,7 +127,7 @@ let resumeData = {
       },
       {
         "name":"Simplist",
-        "description":"A mobile app for a collaborative and simple shopping list",
+        "description":"A mobile app for a collaborative and simple shopping list. ANDROID ONLY",
         "imgurl":"images/portfolio/simplist-logo.png",
         "url": "http://simplist.lawrencety.com"
       },
