@@ -4,11 +4,18 @@ export default  class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-         <div className="row education">
-            <div className="three columns header-col">
-               <h1><span>Education</span></h1>
-            </div>
-            <div className="nine columns main-col">
+        <div className="row resume">
+          <h1>Download my resume here:
+            <a href="./Lawrence Yen - Resume.pdf" download style={{fontSize: 36, padding: 8}}>
+              <i class="fa fa-file-text"></i>
+            </a>
+          </h1>
+        </div>
+        <div className="row education">
+          <div className="three columns header-col">
+            <h1><span>Education</span></h1>
+          </div>
+          <div className="nine columns main-col">
               {
                 resumeData.education && resumeData.education.map((item)=>{
                   return(

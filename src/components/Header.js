@@ -33,6 +33,9 @@ export default class Header extends Component {
                         }
                       )
                     }
+                    <li key="resume">
+                      <a href="./Lawrence Yen - Resume.pdf" download><i class="fa fa-file-text"></i></a>
+                    </li>
                  </ul>
               </div>
            </div>

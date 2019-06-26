@@ -18,6 +18,9 @@ export default class Footer extends Component {
                 )
               })
             }
+            <li>
+              <a href="./Lawrence Yen - Resume.pdf" download><i class="fa fa-file-text"></i></a>
+            </li>
           </ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
