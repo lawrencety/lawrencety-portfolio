@@ -133,8 +133,8 @@ let resumeData = {
       },
       {
         "name":"Nutrition Plan",
-        "description":"A web application to keep track of nutritional information on all food intake",
-        "imgurl":""
+        "description":"A web application to keep track of nutritional information on all food intake. In development.",
+        "imgurl":"images/portfolio/nutritiontracker-logo.png"
       }
     ],
     "testimonials":[
