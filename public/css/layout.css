@@ -428,6 +428,21 @@ ul#nav li.current a { color: #F06000; }
    color: #95A3A3;
 }
 
+#portfolio h1 span {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #313131;
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+
+#portfolio .portfolio {
+  border-bottom: 1px solid #d4dada;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {

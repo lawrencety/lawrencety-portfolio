@@ -130,11 +130,26 @@ let resumeData = {
         "description":"A mobile app for a collaborative and simple shopping list. ANDROID ONLY",
         "imgurl":"images/portfolio/simplist-logo.png",
         "url": "http://simplist.lawrencety.com"
-      },
+      }
+    ],
+    "projects":[
       {
         "name":"Nutrition Plan",
         "description":"A web application to keep track of nutritional information on all food intake. In development.",
-        "imgurl":"images/portfolio/nutritiontracker-logo.png"
+        "imgurl":"images/portfolio/nutritiontracker-logo.png",
+        "url": "https://github.com/lawrencety/nutrition-plan-web"
+      },
+      {
+        "name":"Disaster Response SJ",
+        "description":"An informational web application for disaster response and relief resources. In development.",
+        "imgurl":"images/portfolio/code-for-san-jose.png",
+        "url": "https://github.com/codeforsanjose/disaster-response-sj"
+      },
+      {
+        "name":"Census 2020",
+        "description":"An informational overlay for Census 2020 FAQs and request form for information. In development.",
+        "imgurl":"images/portfolio/code-for-san-jose.png",
+        "url": "https://github.com/codeforsanjose/census2020"
       }
     ],
     "testimonials":[
