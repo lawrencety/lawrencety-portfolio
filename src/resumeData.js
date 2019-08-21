@@ -16,8 +16,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am seeking a Full Stack Web Developer position with company I can be passionate about. I have extensive experience in Full Stack JavaScript, Product Managment, and UI/UX Design. I have over 4 years of experience working with complex systems, technology, and product.",
-    "aboutme2":"I am currently taking the Bloc Full Stack Web Development bootcamp program to further enhance my technical skills and expertise.",
+    "aboutme":"I am seeking a Product Manager or Full Stack Developer position with company I can be passionate about. I have extensive experience in Full Stack JavaScript, Product Managment, and UI/UX Design. I have over 4 years of experience working with complex systems, technology, and product.",
+    "aboutme2":"I am a recent graduate of the Bloc Full Stack Web Developer program which helped further enhance my technical skills and expertise.",
     "address":"San Francisco Bay Area",
     "email":"lawrence.t.yen@gmail.com",
     "phone":"917.330.6288",
@@ -29,7 +29,7 @@ let resumeData = {
         "YearOfStart":"2018",
         "MonthOfPassing":"June",
         "YearOfPassing":"2019",
-        "Achievements":"Completed bootcamp curriculum with extensive and grounded technical knowledge and hands on experience with a portfolio of projects including a Chat, Forum, Wiki, Nutrition Tracker, and Shared Mobile Shopping List"
+        "Achievements":"Completed full-stack curriculum with extensive and grounded technical knowledge and hands on experience with a portfolio of projects including a Chat, Forum, Wiki, Nutrition Tracker, and Shared Mobile Shopping List"
       },
       {
         "UniversityName":"UC Berkeley",
