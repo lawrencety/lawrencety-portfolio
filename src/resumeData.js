@@ -137,7 +137,7 @@ let resumeData = {
         "name":"The Budding PM",
         "description":"A web guide for new Product Managers featuring a walkthrough of the Product Life Cycle. In development.",
         "imgurl":"images/portfolio/budding-pm-logo.png",
-        "url": "https://budding-pm.herokuapp.com/"
+        "url": "http://www.buddingpm.com/"
       },
       {
         "name":"Nutrition Plan",
